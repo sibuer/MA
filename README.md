@@ -65,8 +65,3 @@ Calculation of the Water Stress Index
 Data manipulation of gridded BAFU CH2018 data
 
 - **netCDF** → table catchment means
-
-### Interview Transkripte
-Folder containing transcripts of interview / notes of talks
-	
-R-Workspace/.RData files can be sent on request
