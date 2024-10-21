@@ -1,7 +1,8 @@
 # Files Water Scarcity Gürbetal
 
 
-The 3 R-Projects
+The folders represent three different R-Projects, which were used
+during this thesis
 
 -----------------------------------------------------------------------
 ### 01_input_data
@@ -25,6 +26,8 @@ various skripts, each for analysis of different aspect of
 
 ------------------------------------------------------------------------
 ### 02_water stress index
+Calculation of the Water Stress Index
+
 Calculation Industry & industrial water need:
 water_demand.xlsx
 
@@ -63,8 +66,8 @@ div. outuput tables from R-project, saved as backup
 
 ------------------------------------------------------------------------
 ### 03_BAFUCH2018 
-
 Data Manipulation of gridded BAFU CH2018 data
+
 netCDF -> table catchment means
 
 
