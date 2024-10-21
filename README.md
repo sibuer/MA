@@ -1,10 +1,10 @@
-# MA
+# Files Water Scarcity Gürbetal
 
 
 The 3 R-Projects
 
 -----------------------------------------------------------------------
-# 01_input_data
+### 01_input_data
 analysis of existing data & baseflow analysis
 
 00_data
@@ -24,7 +24,7 @@ various skripts, each for analysis of different aspect of
 
 
 ------------------------------------------------------------------------
-#02_water stress index
+### 02_water stress index
 Calculation Industry & industrial water need:
 water_demand.xlsx
 
@@ -62,14 +62,14 @@ div. outuput tables from R-project, saved as backup
 
 
 ------------------------------------------------------------------------
-#03_BAFUCH2018 
+### 03_BAFUCH2018 
 
 Data Manipulation of gridded BAFU CH2018 data
 netCDF -> table catchment means
 
 
 ------------------------------------------------------------------------------
-Interview Transkripte --------------------------------------------------------
+### Interview Transkripte
 Folder containing transcripts of interview / notes of talks
 	
 R-Workspace/.RData files can be sent on request
